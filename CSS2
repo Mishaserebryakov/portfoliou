@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+background-image: linear-gradient(to left, #ffffff, #7a7676);
+}
+
+a {
+   display: inline-block;
+   text-decoration: none;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   margin-top: 10px;
+   margin-left: 388px;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+li{
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+}
