@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Михаил</h1>
+      <ul>
+        <li>люблю играть в игры</li>
+        <li>катаюсь на велике</li>
+        <li>делаю сайты</li>
+      </ul>
+      <img src="https://cdn.lifehacker.ru/wp-content/uploads/2020/09/1_1601028680.jpg" width="830px" height="550px"/>
+      <img src="/sites/default/files/styles/1280px/public/2020-04/will-gonzalez-uAK3jJr6md4-unsplash.jpg?itok=j3JZTHBT"/>
+    </main>
+    <footer>
+      <a href="#top">Вернуться наверх</a>
+    </footer>
